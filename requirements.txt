@@ -1,0 +1,9 @@
+pyqt6
+pyqtgraph
+psutil
+scapy
+scikit-learn
+numpy
+reportlab
+joblib
+requests
